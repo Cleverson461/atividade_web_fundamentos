@@ -1,0 +1,12 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+img {
+    max-width: 100%;
+    height: auto;
+}
+.container {
+    max-width: 800px;
+    margin: auto;
+}
